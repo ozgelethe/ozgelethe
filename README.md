@@ -1,5 +1,5 @@
 # hi, im özge
-**.NET Backend Developer · Payments & Fintech · Istanbul, Türkiye**
+**Senior .NET Backend Developer · Payments & Fintech · Istanbul, Türkiye**
 
 i was working like a dog for years and had no time to personel projects. 
 
