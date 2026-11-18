@@ -1,4 +1,4 @@
-# hi, im özge
+# Hi, I'm Özge Arıcan
 **Senior .NET Backend Developer · Payments & Fintech · Istanbul, Türkiye**
 
 I build backend systems that move money reliably: card processing, digital wallets, end-of-day reconciliation and bank integrations. 5+ years of software experience, most recently as a senior backend developer at a licensed payment institution, where I owned card services end to end.
